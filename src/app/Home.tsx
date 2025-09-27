@@ -2,7 +2,7 @@ import { Layout } from './Layout'
 
 export function Home() {
   return (
-    <Layout title="Home">
+    <Layout title="rwsdk-minimal-starter">
       home
     </Layout>
   )
