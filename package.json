@@ -15,22 +15,22 @@
     "tail": "wrangler tail"
   },
   "dependencies": {
-    "react": "19.2.0",
-    "react-dom": "19.2.0",
-    "react-server-dom-webpack": "19.2.0",
-    "rwsdk": "1.0.0-beta.9"
+    "react": "19.3.0-canary-d7215b49-20251013",
+    "react-dom": "19.3.0-canary-d7215b49-20251013",
+    "react-server-dom-webpack": "19.3.0-canary-d7215b49-20251013",
+    "rwsdk": "1.0.0-beta.12"
   },
   "devDependencies": {
-    "@cloudflare/vite-plugin": "1.13.11",
-    "@cloudflare/workers-types": "^4.20251008.0",
+    "@cloudflare/vite-plugin": "1.13.12",
+    "@cloudflare/workers-types": "^4.20251011.0",
     "@tailwindcss/vite": "^4.1.14",
-    "@types/node": "^24.7.0",
+    "@types/node": "^24.7.2",
     "@types/react": "^19.2.2",
-    "@types/react-dom": "^19.2.1",
+    "@types/react-dom": "^19.2.2",
     "tailwindcss": "^4.1.14",
     "typescript": "^5.9.3",
-    "vite": "^7.1.9",
-    "wrangler": "4.42.1"
+    "vite": "^7.1.10",
+    "wrangler": "4.42.2"
   },
   "prettier": {
     "printWidth": 100,
