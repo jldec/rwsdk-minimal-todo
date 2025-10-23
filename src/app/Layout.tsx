@@ -3,7 +3,8 @@ export function Layout({ title, children }: { title: string, children: React.Rea
     <div className="mx-auto max-w-3xl p-2">
       <title>{title}</title>
       <main>
-        <h1 className="text-2xl font-bold">{title}</h1>
+        <a className="text-blue-500 underline" href="https://github.com/jldec/rwsdk-minimal-todo">GitHub</a>
+        <h1 className="text-2xl font-bold mb-4">{title}</h1>
         {children}
       </main>
     </div>
