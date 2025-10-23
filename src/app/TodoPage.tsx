@@ -3,7 +3,7 @@ import { Todo } from './Todo'
 
 export function TodoPage() {
   return (
-    <Layout title="Todo">
+    <Layout title="RedwoodSDK minimal Todo">
       <Todo />
     </Layout>
   )
